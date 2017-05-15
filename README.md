@@ -1,7 +1,6 @@
-# TravelAssistant
+## TravelAssistant
 
 旅行伴侣是我学习了iOS开发两个学期后, 第一个独立编写的iOS小程序.
-
 旅行伴侣能提供景点和线路规划, 搜索附近吃喝玩乐, 集翻译, 汇率转换等众多功能一体的一站式旅行App.
 
 
@@ -9,3 +8,7 @@
 
 
 ![](https://ww2.sinaimg.cn/large/006tNc79gy1fcmiowxdz0j30rs22ljxd.jpg)
+
+## 交个朋友
+欢迎关注我的博客，和我做朋友。
+[http://lns666.me](http://lns666.me/)
