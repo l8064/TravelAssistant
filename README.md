@@ -10,5 +10,6 @@
 ![](https://ww2.sinaimg.cn/large/006tNc79gy1fcmiowxdz0j30rs22ljxd.jpg)
 
 ## 交个朋友
-欢迎关注我的博客，和我做朋友。
+欢迎右上角Start/Fork！
+你也可以关注我的博客，和我做朋友。
 [http://lns666.me](http://lns666.me/)
