@@ -7,8 +7,8 @@
 > 部分功能因为API接口过期无法正常使用，如有需要，更新API接口即可。
 
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gebb0wmumej30rs22l44b.jpg)
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gebb0wmumej30rs22l44b.jpg" width="600px"/>
 
 
 ## 交个朋友
-欢迎右上角Start/Fork！
+欢迎右上角Start/Fork！欢迎与我联系。
